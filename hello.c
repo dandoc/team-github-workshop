@@ -1,5 +1,5 @@
 #include <stdio>
 
 void helloworld(){
-printf("hello");
+printf("hello wordl\n");
 }
