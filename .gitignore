@@ -5,5 +5,4 @@
 a.out
 
 # OS 및 임시 파일
-.DS_Store
 *.tmp
